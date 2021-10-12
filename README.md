@@ -16,7 +16,8 @@
 - [X] [USACO - Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=736)
   > Soluciones: [A](https://gist.github.com/Jhon-H/9a3ec1a41c3b7c971038a4943eeae86d)
 
-- [ ] [USACO - Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)
+- [X] [USACO - Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)
+  > Soluciones: [A](https://gist.github.com/Jhon-H/55fa1f9f90343706b013746203af6ad8)
 
 - [ ] [USACO - Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=739)
 
