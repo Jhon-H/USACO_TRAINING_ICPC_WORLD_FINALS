@@ -21,7 +21,8 @@
 
 - [ ] [USACO - Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=739)
 
-- [ ] [USACO - Load Balancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=617)
+- [X] [USACO - Load Balancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=617)
+  > Soluciones: [A](https://gist.github.com/Jhon-H/a3abcbc76ab635333a93e01c8d1f9a58)
 
 - [ ] [USACO - Cowntact Tracing](http://www.usaco.org/index.php?page=viewproblem2&cpid=1037)
 
